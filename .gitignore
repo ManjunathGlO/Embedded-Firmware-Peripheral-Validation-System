@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+reports/pytest-report.json
+reports/validation-report.html
+.pio/
+.DS_Store
